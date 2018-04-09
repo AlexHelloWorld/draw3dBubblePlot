@@ -11,3 +11,6 @@ see *"sample.pdf"*
 
 ## Reproduce sample
 please use *"sample.R"* and *"sample.Rdata"*
+
+## More about 3D to 2D conversion
+[A good online book about simple computer graphics](https://www.scratchapixel.com/lessons/3d-basic-rendering/computing-pixel-coordinates-of-3d-point/mathematics-computing-2d-coordinates-of-3d-points)
